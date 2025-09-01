@@ -17,6 +17,7 @@ This repository gathers articles, processes, and lessons learned.
 ## 📄 Papers
 
 - [Towards an Ontology of Terms on Technical Debt](papers/towards_an_ontology_of_terms_on_technical_debt.pdf)
+- [Literate Programming – Donald Knuth](papers/literate_programming_donald_knuth.pdf)
 
 ## ⚙️ Processes
 
